@@ -1,0 +1,5 @@
+{
+  "name": "Vòng Quay Học Tập",
+  "description": "Một ứng dụng web vòng quay tương tác dành cho các hoạt động trong lớp học, được thiết kế cho môn Lịch sử và Địa lý lớp 8. Ứng dụng có các chế độ gọi tên học sinh, trả lời câu hỏi và nhận thưởng.",
+  "requestFramePermissions": []
+}
